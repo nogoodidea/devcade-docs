@@ -22,7 +22,7 @@ Devcade and its games ought to run on nearly any x86 hardware released in the la
 
 **RAM:** 8GB
 
-**GPU:** ¯\\_(ツ)_/¯
+**GPU:** ¯\\\_(ツ)\_/¯
 
 ## Booting Up
 

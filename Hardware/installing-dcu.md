@@ -19,7 +19,9 @@ We now take advantage of Debian's preseed functionality to install the OS, and s
 Devcade and its games ought to run on nearly any x86 hardware released in the last 10 years, but we recommend:
 
 **CPU:** Intel Core i5 (5th gen or better)
+
 **RAM:** 8GB
+
 **GPU:** ¯\\_(ツ)_/¯
 
 ## Booting Up

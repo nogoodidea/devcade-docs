@@ -13,8 +13,16 @@
   <script>
     window.$docsify = {
       name: 'Devcade Documentation',
-      repo: '',
       logo: '/_media/DevcadeLogoNoText.png',
+      alias: {
+        '/website-repo': 'https://raw.githubusercontent.com/ComputerScienceHouse/devcade-website/main/',
+        '/library-repo': 'https://raw.githubusercontent.com/ComputerScienceHouse/Devcade-library/main/',
+        '/onboard-repo': 'https://raw.githubusercontent.com/ComputerScienceHouse/devcade-onboard/main/',
+        '/api-repo': 'https://raw.githubusercontent.com/ComputerScienceHouse/devcade-api/master/',
+        '/template-repo': 'https://raw.githubusercontent.com/ComputerScienceHouse/Devcade-game-template/main/',
+        '/flatpackify-repo': 'https://raw.githubusercontent.com/ComputerScienceHouse/devcade-flatpakify/master/'
+      },
+      relativePath: true,
       loadSidebar: true,
       plugins: [
         EditOnGithubPlugin.create("https://github.com/ComputerScienceHouse/devcade-docs/tree/docs/docs/")

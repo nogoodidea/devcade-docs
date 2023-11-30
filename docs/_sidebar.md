@@ -6,7 +6,6 @@
 * [Monogame Template](/template-repo)
 * [Flatpackify](/flatpackify-repo)
 * [Getting Started](/Getting-started/)
-* [Library](/Library/)
 * [Hardware](/Hardware/)
   * [Cabinet](/Hardware/cabinet)
   * [Gamepad](/Hardware/gamepad)

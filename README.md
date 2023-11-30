@@ -1,8 +1,18 @@
 # Devcade Documentation
 
-This repo contains or links to all relevant documentation for the Devcade project using docsify.
+This repo contains or links to all relevant documentation for the Devcade project using docsify. Hosted at: https://devcade.csh.rit.edu/docs#/
 
 All documetation should live in the repo it applies to. If some documetation doesn't fit in any of the projects other repos, it may live here.
+
+# Editing the docs
+
+If something doesn't look right, you can edit any of the docs by going to the hosted site, finding the article that needs editing, and using the "Edit on github" button in the top right corner. Alternatively, you can go to the repo directly and find the relevant doc file. Once there, please make the appropriate edits and open a PR with your changes.
+
+If a new page needs to be added to the sidebar, you should add it to the _sidebar file located at docs/_sidebar.md
+
+If a new repo needs to be linked in, add an alias to the alias section of the index.html file.
+
+For further changes to the docsify site overall, refer to the [docsify documentation](https://docsify.js.org/#/?id=docsify).
 
 # Running locally
 

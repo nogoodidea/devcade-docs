@@ -2,7 +2,7 @@
 
 This repo contains or links to all relevant documentation for the Devcade project using docsify. Hosted at: https://devcade.csh.rit.edu/docs#/
 
-All documetation should live in the repo it applies to. If some documetation doesn't fit in any of the projects other repos, it may live here.
+All documentation should live in the repo it applies to. If some documentation doesn't fit in any of the projects other repos, it may live here.
 
 # Editing the docs
 

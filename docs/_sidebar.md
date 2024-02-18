@@ -4,7 +4,7 @@
 * [Monogame Library](/library-repo)
 * [API](/api-repo)
 * [Monogame Template](/template-repo)
-* [Flatpackify](/flatpackify-repo)
+* [Flatpakify](/flatpakify-repo)
 * [Getting Started](/Getting-started/)
 * [Hardware](/Hardware/)
   * [Cabinet](/Hardware/cabinet)
